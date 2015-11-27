@@ -1,2 +1,2 @@
 __author__ = 'shevc'
-print ('hell world')
+print ('hell worlds')
